@@ -7989,3 +7989,6 @@ Script Stack (0 frames) :
 [2025.12.12-14.34.54:971][140]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.12-14.34.54:971][140]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validando ativo
 [2025.12.12-14.34.54:997][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.12.12-14.36.01:087][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14091.460938
+[2025.12.12-14.36.02:087][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-14.36.02:087][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14092.128906, Update Interval: 324.112061
