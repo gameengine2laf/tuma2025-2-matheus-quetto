@@ -7992,3 +7992,702 @@ Script Stack (0 frames) :
 [2025.12.12-14.36.01:087][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14091.460938
 [2025.12.12-14.36.02:087][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.12-14.36.02:087][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14092.128906, Update Interval: 324.112061
+[2025.12.12-14.39.37:200][728]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap
+[2025.12.12-14.39.37:201][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.12.12-14.39.50:598][242]Cmd: EDIT COPY
+[2025.12.12-14.39.51:229][268]Cmd: EDIT PASTE
+[2025.12.12-14.39.51:271][268]Warning: While importing text for property 'OnActorBeginOverlap' in 'TriggerBox':
+[2025.12.12-14.39.51:272][268]Warning: Unable to find function FirstPersonMap:PersistentLevel.FirstPersonMap_C_4.BndEvt__FirstPersonMap_TriggerBox_UAID_047C169B6111CD9502_1297158921_K2Node_ActorBoundEvent_0_ActorBeginOverlapSignature__DelegateSignature in object /Game/FirstPerson/Maps/FirstPersonMap for delegate (found class: Package)
+[2025.12.12-14.42.08:282][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14458.611328
+[2025.12.12-14.42.09:282][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-14.42.09:282][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14459.278320, Update Interval: 314.817352
+[2025.12.12-14.43.05:986][629]LogDerivedDataCache: C:/Users/Aluno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.12-14.45.38:074][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.12-14.45.38:079][ 84]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7C/YL6VBVI2CR0WXEMXVO4PJ4_Auto3
+[2025.12.12-14.45.38:079][ 84]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/YL6VBVI2CR0WXEMXVO4PJ4_Auto30EBD8FC743460E9111BE24A2F6D35E99.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7C/YL6VBVI2CR0WXEMXVO4PJ4_Auto3.uasset'
+[2025.12.12-14.45.38:081][ 84]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.045
+[2025.12.12-14.45.38:081][ 84]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2025.12.12-14.46.23:366][296]LogStreaming: Display: FlushAsyncLoading(1017): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.23:420][296]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx]
+[2025.12.12-14.46.28:151][296]LogSlate: Window 'ImportContent' being destroyed
+[2025.12.12-14.46.28:180][296]LogInterchangeEngine: [Pendente] Importando
+[2025.12.12-14.46.28:260][297]LogStreaming: Display: FlushAsyncLoading(1018): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.28:707][301]LogStreaming: Display: FlushAsyncLoading(1022): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.29:178][322]LogSkeletalMesh: Building Skeletal Mesh 80_100...
+[2025.12.12-14.46.30:105][366]LogSkeletalMesh: Built Skeletal Mesh [0.93s] /Game/80_100.80_100
+[2025.12.12-14.46.30:555][384]LogSkeletalMesh: Display: Aguardando ativos com revestimento estar pronto0/1(80_100) ...
+[2025.12.12-14.46.30:565][384]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.12.12-14.46.30:571][384]LogMaterial: Display: Material /Game/Palet.Palet needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.12-14.46.30:574][384]LogMaterial: Display: Material /Game/Palet_Roughness.Palet_Roughness needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.12-14.46.30:580][384]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-14.46.30:580][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.46.30:612][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.12-14.46.30:626][385]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Aluno/Downl...-10100-part-8/source/80_100.fbx]
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Circle_005" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Cube_010" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Vert_002" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Cube_042" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Cube_041" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Plane_025" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Cube_044" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Cylinder_009" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Cube_045" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:627][385]Interchange: Warning: [C:/Users/Aluno/Downloads/weapon-pack-of-10100-part-8/source/80_100.fbx : '80_100', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Cube_043" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.46.30:648][385]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.12.12-14.46.30:648][385]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.12.12-14.46.32:929][478]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.12.12-14.46.32:955][479]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.12.12-14.46.37:203][660]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/80_100.80_100
+[2025.12.12-14.46.37:203][660]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/80_100.80_100
+[2025.12.12-14.46.37:204][660]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/80_100.80_100 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_27
+[2025.12.12-14.46.37:205][660]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/80_100.80_100 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_27
+[2025.12.12-14.46.38:365][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.12.12-14.46.38:366][709]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.12.12-14.46.38:373][709]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/80_100.80_100
+[2025.12.12-14.46.38:374][709]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/80_100.80_100
+[2025.12.12-14.46.38:376][709]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/80_100.80_100 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1316378811
+[2025.12.12-14.46.38:377][709]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/80_100.80_100 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1316378811
+[2025.12.12-14.46.44:897][916]Cmd: DELETE
+[2025.12.12-14.46.44:897][916]Cmd: ACTOR DELETE
+[2025.12.12-14.46.44:900][916]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.12.12-14.46.44:918][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.12-14.46.44:922][916]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.12.12-14.46.47:005][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.12-14.46.48:696][984]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.12-14.46.48:720][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.12-14.46.48:739][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.12.12-14.46.48:755][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.12-14.46.48:821][986]LogStreaming: Display: FlushAsyncLoading(1023): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.48:821][986]LogUObjectGlobals: Warning: Falha ao encontrar o objeto 'Object /Game/80_100.80_100'
+[2025.12.12-14.46.49:287][  5]LogStreaming: Display: FlushAsyncLoading(1026): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:315][  6]LogStreaming: Display: FlushAsyncLoading(1027): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:342][  7]LogStreaming: Display: FlushAsyncLoading(1028): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:371][  8]LogStreaming: Display: FlushAsyncLoading(1029): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:399][  9]LogStreaming: Display: FlushAsyncLoading(1030): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:427][ 10]LogStreaming: Display: FlushAsyncLoading(1031): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:456][ 11]LogStreaming: Display: FlushAsyncLoading(1032): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:483][ 12]LogStreaming: Display: FlushAsyncLoading(1033): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:510][ 13]LogStreaming: Display: FlushAsyncLoading(1034): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:538][ 14]LogStreaming: Display: FlushAsyncLoading(1035): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:567][ 15]LogStreaming: Display: FlushAsyncLoading(1036): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:597][ 16]LogStreaming: Display: FlushAsyncLoading(1037): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:624][ 17]LogStreaming: Display: FlushAsyncLoading(1038): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:655][ 18]LogStreaming: Display: FlushAsyncLoading(1039): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:682][ 19]LogStreaming: Display: FlushAsyncLoading(1040): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:711][ 20]LogStreaming: Display: FlushAsyncLoading(1041): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:854][ 25]LogStreaming: Display: FlushAsyncLoading(1042): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:883][ 26]LogStreaming: Display: FlushAsyncLoading(1043): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:911][ 27]LogStreaming: Display: FlushAsyncLoading(1044): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:939][ 28]LogStreaming: Display: FlushAsyncLoading(1045): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.49:970][ 29]LogStreaming: Display: FlushAsyncLoading(1046): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.51:720][ 91]LogStreaming: Display: FlushAsyncLoading(1047): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.46.53:438][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.12-14.46.54:565][150]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.12-14.46.54:597][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.12.12-14.46.54:613][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.12.12-14.46.54:630][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.12-14.47.52:980][587]LogShaderCompilers: Display: ================================================
+[2025.12.12-14.47.52:980][587]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.12-14.47.52:980][587]LogShaderCompilers: Display: Total job queries 1.318, among them cache hits 390 (29.59%), DDC hits 160 (12.14%), Duplicates 418 (31.71%)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Tracking 510 distinct input hashes that result in 289 distinct outputs (56.67%)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: RAM used: 179,19 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Shaders Compiled: 350
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Jobs assigned 350, completed 350 (100%)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Average time worker was idle: 406.18 s
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Time job spent in pending queue: average 1.19 s, longest 7.16 s
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Job execution time: average 1.97 s, max 5.25 s
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Job life time (pending + execution): average 3.16 s, max 8.18
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Shader code size: average 9,285 KiB, min 4,121 KiB, max 25,816 KiB
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 39.65 s
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Jobs were issued in 167 batches (only local compilation was used), average 2.10 jobs/batch
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Average processing rate: 8.83 jobs/sec
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Total thread time: 177,418 s
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Total thread preprocess time: 17,655 s
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Percentage time preprocessing: 9.95%
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Effective parallelization: 4.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.22 sec, max 1.27 sec, min 1.18 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   42 times, average 1.09 sec, max 1.32 sec, min 0.86 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.06 sec, max 1.07 sec, min 1.06 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 0.98 sec, max 1.02 sec, min 0.94 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   24 times, average 0.88 sec, max 1.02 sec, min 0.65 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                                             FDebugViewModePS - 25.92% of total time (compiled   42 times, average 1.09 sec, max 1.32 sec, min 0.86 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.87% of total time (compiled   24 times, average 0.88 sec, max 1.02 sec, min 0.65 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.47% of total time (compiled   44 times, average 0.46 sec, max 0.63 sec, min 0.34 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.36% of total time (compiled   49 times, average 0.41 sec, max 0.53 sec, min 0.28 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.14% of total time (compiled   24 times, average 0.82 sec, max 1.02 sec, min 0.58 sec)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: === Material stats ===
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Materials Translated:    394
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Material Translation Only: 0.10 s (37%)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: Material Cache Hits: 16 (4%)
+[2025.12.12-14.47.52:981][587]LogShaderCompilers: Display: ================================================
+[2025.12.12-14.48.00:918][ 17]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14811.228516
+[2025.12.12-14.48.08:056][ 29]LogStreaming: Display: FlushAsyncLoading(1050): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.48.08:086][ 29]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Aluno/Downloads/rifle-awp-weapon-model-cs2/source/AWP.glb]
+[2025.12.12-14.48.08:110][ 29]LogInterchangeImport: Warning: Node [weapons_models_awp_weapon_snip_awp_vmdl_c_body_hd] with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.
+[2025.12.12-14.48.12:287][ 29]LogSlate: Window 'ImportContent' being destroyed
+[2025.12.12-14.48.12:313][ 29]LogInterchangeEngine: [Pendente] Importando
+[2025.12.12-14.48.12:393][ 30]LogStreaming: Display: FlushAsyncLoading(1085): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.48.12:477][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-14.48.12:477][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14822.663086, Update Interval: 318.624237
+[2025.12.12-14.48.12:538][ 31]LogStreaming: Display: FlushAsyncLoading(1087): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.48.12:929][ 43]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.12-14.48.12:953][ 44]LogStreaming: Display: FlushAsyncLoading(1090): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.48.13:066][ 47]LogStreaming: Display: FlushAsyncLoading(1091): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.48.13:317][ 63]LogStreaming: Display: FlushAsyncLoading(1092): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.48.13:336][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/dropped.dropped (Required Memory Estimate: 0.10 MB)
+[2025.12.12-14.48.13:336][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/dropped.dropped, at AnimationSequence/87431202e949189151dd3726cbceed78c9c8b78d
+[2025.12.12-14.48.13:336][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/firstperson_draw.firstperson_draw (Required Memory Estimate: 0.14 MB)
+[2025.12.12-14.48.13:337][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/firstperson_draw.firstperson_draw, at AnimationSequence/b3522ea5faa79505b344b0d9202c1e909e721126
+[2025.12.12-14.48.13:338][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/sh_crouch_rifl_deploy.sh_crouch_rifl_deploy (Required Memory Estimate: 0.13 MB)
+[2025.12.12-14.48.13:338][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/sh_rifl_catch.sh_rifl_catch (Required Memory Estimate: 0.13 MB)
+[2025.12.12-14.48.13:338][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/sh_crouch_rifl_deploy.sh_crouch_rifl_deploy, at AnimationSequence/9670e7ab5a5b0989035d753efc52b03ecd3aad02
+[2025.12.12-14.48.13:338][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/sh_rifl_catch.sh_rifl_catch, at AnimationSequence/f16851a2ca768410d1b64479bc6f35a5c34d17ee
+[2025.12.12-14.48.13:339][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/sh_rifl_deploy_02.sh_rifl_deploy_02 (Required Memory Estimate: 0.13 MB)
+[2025.12.12-14.48.13:339][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/sh_rifl_deploy_03.sh_rifl_deploy_03 (Required Memory Estimate: 0.13 MB)
+[2025.12.12-14.48.13:339][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/sh_rifl_deploy_02.sh_rifl_deploy_02, at AnimationSequence/c7a46beddf6b1e7198e2af7962a9a94f87d0ebe6
+[2025.12.12-14.48.13:339][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/sh_rifl_deploy_03.sh_rifl_deploy_03, at AnimationSequence/952b4ec8d169e66d94dc5857fa80fcb66e7b98b4
+[2025.12.12-14.48.13:340][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/sh_rifl_deploy.sh_rifl_deploy (Required Memory Estimate: 0.13 MB)
+[2025.12.12-14.48.13:340][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/sh_snip_crouch_firing_additive.sh_snip_crouch_firing_additive (Required Memory Estimate: 0.14 MB)
+[2025.12.12-14.48.13:340][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/sh_rifl_deploy.sh_rifl_deploy, at AnimationSequence/157f39fa58a6d2ec5b58891159e413ba21e948ae
+[2025.12.12-14.48.13:341][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/firstperson_idle.firstperson_idle (Required Memory Estimate: 0.10 MB)
+[2025.12.12-14.48.13:341][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/firstperson_idle.firstperson_idle, at AnimationSequence/d83f0d36ba82b1a29bc39479feca96c246fe15f3
+[2025.12.12-14.48.13:341][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/sh_snip_stand_reload.sh_snip_stand_reload (Required Memory Estimate: 0.20 MB)
+[2025.12.12-14.48.13:341][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/sh_snip_crouch_firing_additive.sh_snip_crouch_firing_additive, at AnimationSequence/70ea318002fe81307652245beebf6bd986e53a54
+[2025.12.12-14.48.13:343][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/firstperson_lookat01_end.firstperson_lookat01_end (Required Memory Estimate: 0.16 MB)
+[2025.12.12-14.48.13:344][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/firstperson_lookat01_loop.firstperson_lookat01_loop (Required Memory Estimate: 0.15 MB)
+[2025.12.12-14.48.13:344][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/sh_snip_stand_reload.sh_snip_stand_reload, at AnimationSequence/e126d5919a9350d40d7427ddc9bd174ce9ae8991
+[2025.12.12-14.48.13:344][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/firstperson_lookat01_end.firstperson_lookat01_end, at AnimationSequence/80ac5b9e09c0fed819b3837922c23a6acaeec213
+[2025.12.12-14.48.13:344][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/firstperson_lookat01_start.firstperson_lookat01_start (Required Memory Estimate: 0.18 MB)
+[2025.12.12-14.48.13:346][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/firstperson_lookat01.firstperson_lookat01 (Required Memory Estimate: 0.24 MB)
+[2025.12.12-14.48.13:346][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/firstperson_lookat01_start.firstperson_lookat01_start, at AnimationSequence/1175317f0dfbaa93cc5b16f43dbac766a8f78dfd
+[2025.12.12-14.48.13:346][ 64]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/firstperson_reload.firstperson_reload (Required Memory Estimate: 0.20 MB)
+[2025.12.12-14.48.13:347][ 64]LogAnimationCompression: Display: Storing compressed animation data for /Game/firstperson_lookat01_loop.firstperson_lookat01_loop, at AnimationSequence/4308c9772a7df9ef9f42919c03d0b7d45bff2145
+[2025.12.12-14.48.13:347][ 65]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/firstperson_shoot1.firstperson_shoot1 (Required Memory Estimate: 0.15 MB)
+[2025.12.12-14.48.13:348][ 65]LogAnimationCompression: Display: Storing compressed animation data for /Game/firstperson_lookat01.firstperson_lookat01, at AnimationSequence/9a6acb919fdc01adb8a669105647c3cbb8aeea04
+[2025.12.12-14.48.13:348][ 65]LogAnimationCompression: Display: Storing compressed animation data for /Game/firstperson_shoot1.firstperson_shoot1, at AnimationSequence/165e2b953ba2a3365ea1edeeb517a5de48fda4a5
+[2025.12.12-14.48.13:350][ 65]LogAnimationCompression: Display: Storing compressed animation data for /Game/firstperson_reload.firstperson_reload, at AnimationSequence/c5ad3fab2e15d84bf457dcfd69a2fd3a4c85aa0c
+[2025.12.12-14.48.13:355][ 65]LogStreaming: Display: FlushAsyncLoading(1111): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.48.13:389][ 67]LogStreaming: Display: FlushAsyncLoading(1112): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.48.13:409][ 69]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/sh_snip_firing_additive.sh_snip_firing_additive (Required Memory Estimate: 0.14 MB)
+[2025.12.12-14.48.13:411][ 69]LogAnimationCompression: Display: Storing compressed animation data for /Game/sh_snip_firing_additive.sh_snip_firing_additive, at AnimationSequence/5f16f6b53e8321e2e1354ba20f93256b787e23b4
+[2025.12.12-14.48.13:426][ 69]LogStreaming: Display: FlushAsyncLoading(1113): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.48.13:448][ 70]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/firstperson_shoot1_additive.firstperson_shoot1_additive (Required Memory Estimate: 0.15 MB)
+[2025.12.12-14.48.13:448][ 70]LogAnimationCompression: Display: Storing compressed animation data for /Game/firstperson_shoot1_additive.firstperson_shoot1_additive, at AnimationSequence/d8eaa14cd9c82e093fc783cc7c372d76d304b0d6
+[2025.12.12-14.48.13:524][ 71]LogTexture: Display: Texturas de compilação: /Game/awp_default_normal_png_e882fc00.awp_default_normal_png_e882fc00 (TFO_BC5, 4096X4096 X1X1X1) (Memória necessária estimada: 1152.999984 MB), EncodeSpeed: Fast
+[2025.12.12-14.48.13:524][ 71]LogTexture: Display: Texturas de compilação: /Game/awp_default_color_psd_2bf6ba1e.awp_default_color_psd_2bf6ba1e (TFO_AutoDXT, 4096X4096 X1X1X1) (Memória necessária estimada: 1120.999983 MB), EncodeSpeed: Fast
+[2025.12.12-14.48.13:526][ 71]LogTexture: Display: Texturas de compilação: /Game/awp_default_ao_png_38865673_orm_2364053676.awp_default_ao_png_38865673_orm_2364053676 (TFO_AutoDXT, 4096X4096 X1X1X1) (Memória necessária estimada: 1120.999983 MB), EncodeSpeed: Fast
+[2025.12.12-14.48.14:197][104]LogSkeletalMesh: Building Skeletal Mesh AWP...
+[2025.12.12-14.48.14:522][121]LogSkeletalMesh: Built Skeletal Mesh [0.33s] /Game/AWP.AWP
+[2025.12.12-14.48.15:000][144]LogSkeletalMesh: Display: Aguardando ativos com revestimento estar pronto0/1(AWP) ...
+[2025.12.12-14.48.15:006][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.12.12-14.48.15:015][144]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-14.48.15:015][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.48.15:050][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.12-14.48.15:071][145]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Aluno/Downl...pon-model-cs2/source/AWP.glb]
+[2025.12.12-14.48.15:081][145]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.12.12-14.48.15:081][145]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.12.12-14.48.15:085][146]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.12.12-14.48.15:566][166]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.12.12-14.48.19:135][320]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AWP.AWP
+[2025.12.12-14.48.19:135][320]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AWP.AWP
+[2025.12.12-14.48.19:136][320]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AWP.AWP as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_28
+[2025.12.12-14.48.19:137][320]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AWP.AWP as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_28
+[2025.12.12-14.48.20:214][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.12-14.48.20:216][378]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.12.12-14.48.20:223][378]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AWP.AWP
+[2025.12.12-14.48.20:224][378]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AWP.AWP
+[2025.12.12-14.48.20:226][378]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AWP.AWP as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1418228812
+[2025.12.12-14.48.20:227][378]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AWP.AWP as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1418228812
+[2025.12.12-14.48.23:815][572]Cmd: DELETE
+[2025.12.12-14.48.23:815][572]Cmd: ACTOR DELETE
+[2025.12.12-14.48.23:827][572]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.12.12-14.48.23:845][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.12-14.48.23:848][572]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.12.12-14.48.35:331][198]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AWP.AWP
+[2025.12.12-14.48.35:331][198]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AWP.AWP
+[2025.12.12-14.48.35:331][198]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AWP.AWP as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_29
+[2025.12.12-14.48.35:332][198]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AWP.AWP as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_29
+[2025.12.12-14.48.37:817][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.12-14.48.37:821][339]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.12.12-14.48.39:237][403]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/AWP_Skeleton.AWP_Skeleton
+[2025.12.12-14.48.39:237][403]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/AWP_Skeleton.AWP_Skeleton
+[2025.12.12-14.48.39:237][403]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AWP.AWP as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_30
+[2025.12.12-14.48.39:238][403]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AWP.AWP as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_30
+[2025.12.12-14.48.39:988][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.12.12-14.48.39:989][445]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.12.12-14.48.48:013][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.12-14.48.49:820][867]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.12-14.48.49:840][867]LogUObjectGlobals: Force Deleting 29 Package(s):
+	Asset Name: /Game/weapon_snip_awp.weapon_snip_awp
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/AWP_PhysicsAsset.AWP_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/AWP_Skeleton.AWP_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/awp_default_normal_png_e882fc00.awp_default_normal_png_e882fc00
+	Asset Type: Texture2D
+	Asset Name: /Game/awp_default_ao_png_38865673_orm_2364053676.awp_default_ao_png_38865673_orm_2364053676
+	Asset Type: Texture2D
+	Asset Name: /Game/awp_default_color_psd_2bf6ba1e.awp_default_color_psd_2bf6ba1e
+	Asset Type: Texture2D
+	Asset Name: /Game/AWP.AWP
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/dropped.dropped
+	Asset Type: AnimSequence
+	Asset Name: /Game/firstperson_draw.firstperson_draw
+	Asset Type: AnimSequence
+	Asset Name: /Game/inventory_icon.inventory_icon
+	Asset Type: AnimSequence
+[2025.12.12-14.48.50:052][867]LogSkeletalMesh: Display: Aguardando ativos com revestimento estar pronto0/1(AWP) ...
+[2025.12.12-14.48.50:068][867]LogSkeletalMesh: Display: Aguardando ativos com revestimento estar pronto0/1(AWP) ...
+[2025.12.12-14.48.50:098][867]LogSkeletalMesh: Display: Aguardando ativos com revestimento estar pronto0/1(AWP) ...
+[2025.12.12-14.48.53:284][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.12-14.48.53:301][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.12-14.48.53:314][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.12-14.50.20:187][456]LogStreaming: Display: FlushAsyncLoading(1114): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.50.20:236][456]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Aluno/Downloads/Ultimate Guns Pack-zip/Assault Rifle/AssaultRifle_4.fbx]
+[2025.12.12-14.50.23:221][456]LogSlate: Window 'ImportContent' being destroyed
+[2025.12.12-14.50.23:247][456]LogInterchangeEngine: [Pendente] Importando
+[2025.12.12-14.50.23:325][457]LogStreaming: Display: FlushAsyncLoading(1115): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.50.23:382][458]LogStreaming: Display: FlushAsyncLoading(1122): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.50.23:561][459]LogSkeletalMesh: Building Skeletal Mesh AssaultRifle_4...
+[2025.12.12-14.50.23:568][460]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AssaultRifle_4.AssaultRifle_4
+[2025.12.12-14.50.24:502][503]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.12.12-14.50.24:510][503]LogMaterial: Display: Material /Game/Wood.Wood needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.12-14.50.24:514][503]LogMaterial: Display: Material /Game/Black.Black needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.12-14.50.24:521][503]LogMaterial: Display: Material /Game/DarkMetal.DarkMetal needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.12-14.50.24:525][503]LogMaterial: Display: Material /Game/Metal.Metal needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.12-14.50.24:530][503]LogMaterial: Display: Material /Game/DarkWood.DarkWood needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.12-14.50.24:533][503]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_59:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.12.12-14.50.24:533][503]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-14.50.24:533][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.50.24:538][503]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.12.12-14.50.24:548][503]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-14.50.24:548][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.50.24:582][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.12.12-14.50.24:596][504]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Aluno/Downl...ck-zip/Assault Rifle/AssaultRifle_4.fbx]
+[2025.12.12-14.50.24:596][504]Interchange: Warning: [C:/Users/Aluno/Downloads/Ultimate Guns Pack-zip/Assault Rifle/AssaultRifle_4.fbx : 'AssaultRifle_4', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Cube_146" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.50.24:614][504]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.12.12-14.50.24:614][504]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.12.12-14.50.29:593][741]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssaultRifle_4.AssaultRifle_4
+[2025.12.12-14.50.29:593][741]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssaultRifle_4.AssaultRifle_4
+[2025.12.12-14.50.29:594][741]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssaultRifle_4.AssaultRifle_4 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_31
+[2025.12.12-14.50.29:594][741]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssaultRifle_4.AssaultRifle_4 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_31
+[2025.12.12-14.50.29:676][746]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2025.12.12-14.50.29:711][747]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.12.12-14.50.31:031][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.12.12-14.50.31:033][817]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.12.12-14.50.31:040][817]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssaultRifle_4.AssaultRifle_4
+[2025.12.12-14.50.31:040][817]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssaultRifle_4.AssaultRifle_4
+[2025.12.12-14.50.31:043][817]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssaultRifle_4.AssaultRifle_4 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1549044813
+[2025.12.12-14.50.31:044][817]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssaultRifle_4.AssaultRifle_4 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1549044813
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: ================================================
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Total job queries 1.399, among them cache hits 392 (28.02%), DDC hits 160 (11.44%), Duplicates 418 (29.88%)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Tracking 589 distinct input hashes that result in 322 distinct outputs (54.67%)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: RAM used: 242,04 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Shaders Compiled: 429
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Jobs assigned 429, completed 429 (100%)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Average time worker was idle: 389.84 s
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Time job spent in pending queue: average 0.99 s, longest 7.16 s
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Job execution time: average 2.32 s, max 5.25 s
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Job life time (pending + execution): average 3.31 s, max 8.18
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Shader code size: average 9,15 KiB, min 4,121 KiB, max 25,816 KiB
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.37 s
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Jobs were issued in 183 batches (only local compilation was used), average 2.34 jobs/batch
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Average processing rate: 9.06 jobs/sec
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Total thread time: 214,866 s
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Total thread preprocess time: 18,694 s
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Percentage time preprocessing: 8.70%
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Effective parallelization: 4.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.22 sec, max 1.27 sec, min 1.18 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   52 times, average 1.08 sec, max 1.32 sec, min 0.86 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.06 sec, max 1.07 sec, min 1.06 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 0.98 sec, max 1.02 sec, min 0.94 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   29 times, average 0.86 sec, max 1.02 sec, min 0.62 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                                             FDebugViewModePS - 26.06% of total time (compiled   52 times, average 1.08 sec, max 1.32 sec, min 0.86 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.89% of total time (compiled   61 times, average 0.42 sec, max 0.95 sec, min 0.28 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.60% of total time (compiled   29 times, average 0.86 sec, max 1.02 sec, min 0.62 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.44% of total time (compiled   54 times, average 0.46 sec, max 0.63 sec, min 0.30 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.00% of total time (compiled   29 times, average 0.81 sec, max 1.02 sec, min 0.58 sec)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: === Material stats ===
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Materials Translated:    437
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Material Total Translate Time: 0.38 s
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Material Translation Only: 0.19 s (50%)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: Material Cache Hits: 16 (4%)
+[2025.12.12-14.50.52:992][ 36]LogShaderCompilers: Display: ================================================
+[2025.12.12-14.51.06:927][631]Cmd: TRANSACTION UNDO
+[2025.12.12-14.51.06:927][631]LogEditorTransaction: Undo Definir Escala
+[2025.12.12-14.52.10:555][897]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.12.12-14.52.10:572][897]LogContentBundle: [FirstPersonMap(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2025.12.12-14.52.10:572][897]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.12.12-14.52.10:578][897]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5.400 ms (total: 212.869 ms)
+[2025.12.12-14.52.10:578][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.12-14.52.10:578][897]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.12-14.52.10:588][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010365s)
+[2025.12.12-14.52.10:588][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010406s)
+[2025.12.12-14.52.10:603][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.12-14.52.10:605][897]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.12-14.52.10:606][897]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.12-14.52.10:606][897]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.12-14.52.10:606][897]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.12-14.52.10:606][897]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.12-14.52.10:610][897]LogWorldPartition: Display: WorldPartition initialize took 3.662 ms (total: 543.012 ms)
+[2025.12.12-14.52.10:610][897]LogPlayLevel: PIE: World Init took: (0.005133s)
+[2025.12.12-14.52.10:611][897]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.12.12-14.52.10:611][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-14.52.10:611][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-14.52.10:611][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-14.52.10:611][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-14.52.10:611][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.12.12-14.52.10:611][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-14.52.10:611][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.12.12-14.52.10:611][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-14.52.10:611][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-14.52.10:611][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-14.52.10:611][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-14.52.10:613][897]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-14.52.10:633][897]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek(R) Audio)
+[2025.12.12-14.52.10:633][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-14.52.10:633][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-14.52.10:633][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-14.52.10:634][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.12.12-14.52.10:634][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.12.12-14.52.10:636][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.12.12-14.52.10:636][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.12.12-14.52.10:636][897]LogInit: FAudioDevice initialized with ID 39.
+[2025.12.12-14.52.10:636][897]LogAudio: Display: Audio Device (ID: 39) registered with world 'FirstPersonMap'.
+[2025.12.12-14.52.10:636][897]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.12.12-14.52.10:639][897]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.12-14.52.10:645][897]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.12-11.52.10
+[2025.12.12-14.52.10:646][897]LogWorld: Bringing up level for play took: 0.006063
+[2025.12.12-14.52.10:648][897]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2025.12.12-14.52.10:651][897]PIE: Servidor conectado
+[2025.12.12-14.52.10:651][897]PIE: Tempo inicial total de reprodução no editor: 0,079 s
+[2025.12.12-14.52.17:106][390]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.12-14.52.18:463][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-14.52.18:464][502]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.12-14.52.18:464][502]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-14.52.18:466][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.52.18:466][502]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.12.12-14.52.18:469][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-14.52.18:474][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.52.18:491][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-14.52.18:492][502]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.12.12-14.52.18:492][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.12.12-14.52.18:494][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.12.12-14.52.18:502][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.12-14.52.18:581][503]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2025.12.12-14.54.10:734][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15180.900391
+[2025.12.12-14.54.11:279][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-14.54.11:279][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15181.416016, Update Interval: 310.012512
+[2025.12.12-14.56.03:888][234]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.12.12-14.56.03:904][234]LogContentBundle: [FirstPersonMap(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2025.12.12-14.56.03:905][234]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.12.12-14.56.03:910][234]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5.854 ms (total: 218.723 ms)
+[2025.12.12-14.56.03:911][234]LogPlayLevel: [PlayLevel] Compiling FirstPersonMap before play...
+[2025.12.12-14.56.03:961][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.12-14.56.03:963][234]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2025.12.12-14.56.03:963][234]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.12-14.56.03:973][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009711s)
+[2025.12.12-14.56.03:973][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.009747s)
+[2025.12.12-14.56.03:987][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.12.12-14.56.03:988][234]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.12-14.56.03:989][234]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.12-14.56.03:989][234]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.12-14.56.03:989][234]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.12-14.56.03:989][234]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.12-14.56.03:993][234]LogWorldPartition: Display: WorldPartition initialize took 3.636 ms (total: 546.648 ms)
+[2025.12.12-14.56.03:993][234]LogPlayLevel: PIE: World Init took: (0.005182s)
+[2025.12.12-14.56.03:994][234]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.12.12-14.56.03:994][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-14.56.03:994][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-14.56.03:994][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-14.56.03:994][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-14.56.03:994][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.12.12-14.56.03:994][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-14.56.03:994][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.12.12-14.56.03:994][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-14.56.03:994][234]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-14.56.03:994][234]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-14.56.03:994][234]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-14.56.03:997][234]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-14.56.04:015][234]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek(R) Audio)
+[2025.12.12-14.56.04:016][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-14.56.04:016][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-14.56.04:016][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-14.56.04:016][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.12.12-14.56.04:016][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.12.12-14.56.04:019][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.12.12-14.56.04:019][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.12.12-14.56.04:019][234]LogInit: FAudioDevice initialized with ID 40.
+[2025.12.12-14.56.04:019][234]LogAudio: Display: Audio Device (ID: 40) registered with world 'FirstPersonMap'.
+[2025.12.12-14.56.04:019][234]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.12.12-14.56.04:025][234]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.12-14.56.04:031][234]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.12-11.56.04
+[2025.12.12-14.56.04:032][234]LogWorld: Bringing up level for play took: 0.006339
+[2025.12.12-14.56.04:035][234]LogOnline: OSS: Created online subsystem instance for: :Context_102
+[2025.12.12-14.56.04:038][234]PIE: Servidor conectado
+[2025.12.12-14.56.04:039][234]PIE: Tempo inicial total de reprodução no editor: 0,134 s
+[2025.12.12-14.56.09:356][561]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.12-14.56.10:666][669]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.12-14.56.11:993][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-14.56.11:993][780]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.12-14.56.11:993][780]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-14.56.11:995][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.56.11:995][780]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.12.12-14.56.11:999][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-14.56.12:003][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.56.12:020][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-14.56.12:020][780]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.12.12-14.56.12:020][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.12.12-14.56.12:023][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.12.12-14.56.12:030][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.12-14.56.12:112][781]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2025.12.12-14.56.35:858][858]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.12-14.56.35:867][858]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.12-14.56.35:878][859]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.12-14.56.40:263][ 10]LogContentBrowser: Attempting asset rename: NewFolder -> Armas
+[2025.12.12-14.56.40:264][ 10]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.12-14.56.48:253][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-14.56.48:253][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/AssaultRifle_4] ([1] browsable assets)...
+[2025.12.12-14.56.48:253][256]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.12.12-14.56.48:275][256]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Armas/AssaultRifle_4.AssaultRifle_4]
+[2025.12.12-14.56.48:275][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/AssaultRifle_4]
+[2025.12.12-14.56.48:280][256]LogSavePackage: Moving output files for package: /Game/Armas/AssaultRifle_4
+[2025.12.12-14.56.48:280][256]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/AssaultRifle_4CC995C94463A3B10285A368C9044BF2E.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/AssaultRifle_4.uasset'
+[2025.12.12-14.56.48:282][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/AssaultRifle_4_PhysicsAsset] ([1] browsable assets)...
+[2025.12.12-14.56.48:289][256]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Armas/AssaultRifle_4_PhysicsAsset.AssaultRifle_4_PhysicsAsset]
+[2025.12.12-14.56.48:289][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/AssaultRifle_4_PhysicsAsset]
+[2025.12.12-14.56.48:290][256]LogSavePackage: Moving output files for package: /Game/Armas/AssaultRifle_4_PhysicsAsset
+[2025.12.12-14.56.48:290][256]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/AssaultRifle_4_PhysicsAsset8961E9584924E7EFA96406B4478E414C.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/AssaultRifle_4_PhysicsAsset.uasset'
+[2025.12.12-14.56.48:293][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/AssaultRifle_4_Skeleton] ([1] browsable assets)...
+[2025.12.12-14.56.48:293][256]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.12.12-14.56.48:307][256]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Armas/AssaultRifle_4_Skeleton.AssaultRifle_4_Skeleton]
+[2025.12.12-14.56.48:307][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/AssaultRifle_4_Skeleton]
+[2025.12.12-14.56.48:308][256]LogSavePackage: Moving output files for package: /Game/Armas/AssaultRifle_4_Skeleton
+[2025.12.12-14.56.48:308][256]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/AssaultRifle_4_SkeletonFF4E85EB4C062FD315FE6B8ED20EE954.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/AssaultRifle_4_Skeleton.uasset'
+[2025.12.12-14.56.48:310][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/Black] ([1] browsable assets)...
+[2025.12.12-14.56.48:317][256]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Armas/Black.Black]
+[2025.12.12-14.56.48:317][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/Black]
+[2025.12.12-14.56.48:317][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Armas/Black" FILE="../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/Black.uasset" SILENT=true
+[2025.12.12-14.56.48:319][256]LogSavePackage: Moving output files for package: /Game/Armas/Black
+[2025.12.12-14.56.48:319][256]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Black51424C1A4EC590B952C8DAB21D799B0F.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/Black.uasset'
+[2025.12.12-14.56.48:321][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/DarkMetal] ([1] browsable assets)...
+[2025.12.12-14.56.48:328][256]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Armas/DarkMetal.DarkMetal]
+[2025.12.12-14.56.48:328][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/DarkMetal]
+[2025.12.12-14.56.48:328][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Armas/DarkMetal" FILE="../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/DarkMetal.uasset" SILENT=true
+[2025.12.12-14.56.48:330][256]LogSavePackage: Moving output files for package: /Game/Armas/DarkMetal
+[2025.12.12-14.56.48:330][256]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/DarkMetal9ED4DA3546F0F58C9AC707B7997E8E57.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/DarkMetal.uasset'
+[2025.12.12-14.56.48:331][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/DarkWood] ([1] browsable assets)...
+[2025.12.12-14.56.48:338][256]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Armas/DarkWood.DarkWood]
+[2025.12.12-14.56.48:338][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/DarkWood]
+[2025.12.12-14.56.48:338][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Armas/DarkWood" FILE="../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/DarkWood.uasset" SILENT=true
+[2025.12.12-14.56.48:340][256]LogSavePackage: Moving output files for package: /Game/Armas/DarkWood
+[2025.12.12-14.56.48:340][256]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/DarkWood17BD80CD4B0241505E67C3B120B82985.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/DarkWood.uasset'
+[2025.12.12-14.56.48:342][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/Metal] ([1] browsable assets)...
+[2025.12.12-14.56.48:349][256]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Armas/Metal.Metal]
+[2025.12.12-14.56.48:349][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/Metal]
+[2025.12.12-14.56.48:349][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Armas/Metal" FILE="../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/Metal.uasset" SILENT=true
+[2025.12.12-14.56.48:351][256]LogSavePackage: Moving output files for package: /Game/Armas/Metal
+[2025.12.12-14.56.48:351][256]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Metal28EE82B64DDF660BD09F53BE680408B6.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/Metal.uasset'
+[2025.12.12-14.56.48:352][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/Wood] ([1] browsable assets)...
+[2025.12.12-14.56.48:359][256]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Armas/Wood.Wood]
+[2025.12.12-14.56.48:359][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/Wood]
+[2025.12.12-14.56.48:359][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Armas/Wood" FILE="../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/Wood.uasset" SILENT=true
+[2025.12.12-14.56.48:361][256]LogSavePackage: Moving output files for package: /Game/Armas/Wood
+[2025.12.12-14.56.48:361][256]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Wood811889F94C0E90E09BF3A782D0B4CBB7.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/Armas/Wood.uasset'
+[2025.12.12-14.56.48:362][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.143 ms (total: 3.67 sec)
+[2025.12.12-14.56.48:486][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.12-14.56.48:504][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.12-14.56.48:520][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.12-14.56.48:538][256]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.12-14.56.48:538][256]LogContentValidation: Display: Starting to validate 8 assets
+[2025.12.12-14.56.48:538][256]LogContentValidation: Enabled validators:
+[2025.12.12-14.56.48:538][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-14.56.48:538][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-14.56.48:538][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-14.56.48:538][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-14.56.48:538][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-14.56.48:538][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-14.56.48:538][256]AssetCheck: /Game/Armas/AssaultRifle_4 Validando ativo
+[2025.12.12-14.56.48:538][256]AssetCheck: /Game/Armas/AssaultRifle_4_PhysicsAsset Validando ativo
+[2025.12.12-14.56.48:538][256]AssetCheck: /Game/Armas/AssaultRifle_4_Skeleton Validando ativo
+[2025.12.12-14.56.48:538][256]AssetCheck: /Game/Armas/Black Validando ativo
+[2025.12.12-14.56.48:538][256]AssetCheck: /Game/Armas/DarkMetal Validando ativo
+[2025.12.12-14.56.48:538][256]AssetCheck: /Game/Armas/DarkWood Validando ativo
+[2025.12.12-14.56.48:538][256]AssetCheck: /Game/Armas/Metal Validando ativo
+[2025.12.12-14.56.48:538][256]AssetCheck: /Game/Armas/Wood Validando ativo
+[2025.12.12-14.57.24:188][626]LogStreaming: Display: FlushAsyncLoading(1123): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.57.24:252][626]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Aluno/Downloads/Ultimate Guns Pack-zip/Shotgun/Shotgun_2.fbx]
+[2025.12.12-14.57.28:943][626]LogSlate: Window 'ImportContent' being destroyed
+[2025.12.12-14.57.28:978][626]LogInterchangeEngine: [Pendente] Importando
+[2025.12.12-14.57.29:059][627]LogStreaming: Display: FlushAsyncLoading(1124): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.57.29:113][628]LogStreaming: Display: FlushAsyncLoading(1125): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-14.57.29:349][629]LogSkeletalMesh: Building Skeletal Mesh Shotgun_2...
+[2025.12.12-14.57.29:355][630]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Armas/Shotgun_2.Shotgun_2
+[2025.12.12-14.57.29:468][631]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2025.12.12-14.57.29:475][631]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_65:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.12.12-14.57.29:475][631]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-14.57.29:475][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.57.29:478][631]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.12.12-14.57.29:485][631]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-14.57.29:485][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-14.57.29:492][631]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Aluno/Downl...uns Pack-zip/Shotgun/Shotgun_2.fbx]
+[2025.12.12-14.57.29:492][631]Interchange: Warning: [C:/Users/Aluno/Downloads/Ultimate Guns Pack-zip/Shotgun/Shotgun_2.fbx : 'Shotgun_2', SkeletalMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Cube_013" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2025.12.12-14.57.29:512][631]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.12.12-14.57.29:512][631]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.12.12-14.57.29:535][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.12-14.57.29:682][634]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.12.12-14.57.34:080][811]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Armas/Shotgun_2.Shotgun_2
+[2025.12.12-14.57.34:080][811]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Armas/Shotgun_2.Shotgun_2
+[2025.12.12-14.57.34:080][811]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Armas/Shotgun_2.Shotgun_2 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_32
+[2025.12.12-14.57.34:080][811]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Armas/Shotgun_2.Shotgun_2 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_32
+[2025.12.12-14.57.35:943][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.12.12-14.57.35:944][893]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.12.12-14.57.35:952][893]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Armas/Shotgun_2.Shotgun_2
+[2025.12.12-14.57.35:952][893]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Armas/Shotgun_2.Shotgun_2
+[2025.12.12-14.57.35:954][893]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Armas/Shotgun_2.Shotgun_2 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1973956814
+[2025.12.12-14.57.35:955][893]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Armas/Shotgun_2.Shotgun_2 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1973956814
+[2025.12.12-14.57.38:670][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.12-14.57.38:686][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto4
+[2025.12.12-14.57.38:687][  6]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/FirstPersonMap_Auto40ABAD67B454A8610E35FDFB59C88F91B.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto4.umap'
+[2025.12.12-14.57.38:691][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7C/YL6VBVI2CR0WXEMXVO4PJ4_Auto4
+[2025.12.12-14.57.38:691][  6]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/YL6VBVI2CR0WXEMXVO4PJ4_Auto42CDB7B344FB6486D72EF7DA8A841750A.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7C/YL6VBVI2CR0WXEMXVO4PJ4_Auto4.uasset'
+[2025.12.12-14.57.38:693][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/EY/0S2F0BCEKM4HPZFKXUSIWV_Auto4
+[2025.12.12-14.57.38:693][  6]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/0S2F0BCEKM4HPZFKXUSIWV_Auto4007225B647C8F326C4E490984DB73D74.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/EY/0S2F0BCEKM4HPZFKXUSIWV_Auto4.uasset'
+[2025.12.12-14.57.38:695][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/7S/SN8E0QSWZR4SP9K3UZRNLT_Auto4
+[2025.12.12-14.57.38:695][  6]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/SN8E0QSWZR4SP9K3UZRNLT_Auto41C2370614DFCBAA62550B98E6554120E.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/7S/SN8E0QSWZR4SP9K3UZRNLT_Auto4.uasset'
+[2025.12.12-14.57.38:697][  6]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.044
+[2025.12.12-14.57.38:697][  6]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2025.12.12-14.57.38:697][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Eff_Fresnel_053_NO_00_Auto4
+[2025.12.12-14.57.38:698][  6]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Eff_Fresnel_053_NO_00_Auto40BE020DD48842FB036CA11A061E88EEC.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Autosaves/Game/Eff_Fresnel_053_NO_00_Auto4.uasset'
+[2025.12.12-14.57.38:699][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Armas/AssaultRifle_4_Skeleton] ([1] browsable assets)...
+[2025.12.12-14.57.38:699][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/AssaultRifle_4_Skeleton]
+[2025.12.12-14.57.38:700][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Armas/AssaultRifle_4_Skeleton_Auto4
+[2025.12.12-14.57.38:700][  6]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/AssaultRifle_4_Skeleton_Auto4B3BAFD8B4525F3E561F88CBA4C01A59F.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Autosaves/Game/Armas/AssaultRifle_4_Skeleton_Auto4.uasset'
+[2025.12.12-14.57.38:700][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/Shotgun_2_PhysicsAsset] ([1] browsable assets)...
+[2025.12.12-14.57.38:715][  6]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Armas/Shotgun_2_PhysicsAsset.Shotgun_2_PhysicsAsset]
+[2025.12.12-14.57.38:715][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/Shotgun_2_PhysicsAsset]
+[2025.12.12-14.57.38:717][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Armas/Shotgun_2_PhysicsAsset_Auto4
+[2025.12.12-14.57.38:717][  6]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Shotgun_2_PhysicsAsset_Auto454BA138C41B3D7BC74FF72BD6CB94998.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Autosaves/Game/Armas/Shotgun_2_PhysicsAsset_Auto4.uasset'
+[2025.12.12-14.57.38:718][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Armas/Shotgun_2] ([1] browsable assets)...
+[2025.12.12-14.57.38:724][  6]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Armas/Shotgun_2.Shotgun_2]
+[2025.12.12-14.57.38:724][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Armas/Shotgun_2]
+[2025.12.12-14.57.38:728][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Armas/Shotgun_2_Auto4
+[2025.12.12-14.57.38:728][  6]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Shotgun_2_Auto4429DA97B4EE871B62381FCAE79AA5271.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/Autosaves/Game/Armas/Shotgun_2_Auto4.uasset'
+[2025.12.12-14.57.38:730][  6]LogFileHelpers: Auto-saving content packages took 0.033
+[2025.12.12-14.58.08:325][353]Cmd: EDIT COPY
+[2025.12.12-14.58.08:663][368]Cmd: EDIT PASTE
+[2025.12.12-14.58.08:702][368]Warning: While importing text for property 'OnActorBeginOverlap' in 'TriggerBox':
+[2025.12.12-14.58.08:702][368]Warning: Unable to find function FirstPersonMap:PersistentLevel.FirstPersonMap_C_5.BndEvt__FirstPersonMap_TriggerBox_UAID_047C169B610FDBAA02_1982975634_K2Node_ActorBoundEvent_1_ActorBeginOverlapSignature__DelegateSignature in object /Game/FirstPerson/Maps/FirstPersonMap for delegate (found class: Package)
+[2025.12.12-15.00.02:924][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15533.065430
+[2025.12.12-15.00.03:088][541]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-15.00.03:088][541]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15533.208008, Update Interval: 315.075531
+[2025.12.12-15.00.45:775][469]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.12.12-15.00.45:780][469]LogContentBundle: [FirstPersonMap(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2025.12.12-15.00.45:780][469]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.12.12-15.00.45:787][469]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5.880 ms (total: 224.603 ms)
+[2025.12.12-15.00.45:787][469]LogPlayLevel: [PlayLevel] Compiling FirstPersonMap before play...
+[2025.12.12-15.00.45:838][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.12-15.00.45:840][469]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2025.12.12-15.00.45:840][469]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.12-15.00.45:850][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010150s)
+[2025.12.12-15.00.45:850][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010188s)
+[2025.12.12-15.00.45:865][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.12-15.00.45:866][469]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.12-15.00.45:868][469]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.12-15.00.45:868][469]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.12-15.00.45:868][469]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.12-15.00.45:868][469]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.12-15.00.45:871][469]LogWorldPartition: Display: WorldPartition initialize took 3.789 ms (total: 550.437 ms)
+[2025.12.12-15.00.45:871][469]LogPlayLevel: PIE: World Init took: (0.005416s)
+[2025.12.12-15.00.45:872][469]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.12.12-15.00.45:872][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-15.00.45:872][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-15.00.45:872][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-15.00.45:872][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-15.00.45:872][469]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.12.12-15.00.45:872][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-15.00.45:872][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.12.12-15.00.45:872][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-15.00.45:872][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-15.00.45:872][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-15.00.45:872][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-15.00.45:875][469]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-15.00.45:893][469]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek(R) Audio)
+[2025.12.12-15.00.45:893][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-15.00.45:893][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-15.00.45:893][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-15.00.45:894][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.12.12-15.00.45:894][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.12.12-15.00.45:896][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.12.12-15.00.45:896][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.12.12-15.00.45:896][469]LogInit: FAudioDevice initialized with ID 41.
+[2025.12.12-15.00.45:896][469]LogAudio: Display: Audio Device (ID: 41) registered with world 'FirstPersonMap'.
+[2025.12.12-15.00.45:896][469]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.12.12-15.00.45:903][469]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.12-15.00.45:909][469]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.12-12.00.45
+[2025.12.12-15.00.45:909][469]LogWorld: Bringing up level for play took: 0.006419
+[2025.12.12-15.00.45:912][469]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2025.12.12-15.00.45:915][469]PIE: Servidor conectado
+[2025.12.12-15.00.45:916][469]PIE: Tempo inicial total de reprodução no editor: 0,135 s
+[2025.12.12-15.00.52:904][897]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.12-15.01.03:968][643]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.12-15.01.06:200][803]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.12-15.01.07:444][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-15.01.07:444][886]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.12-15.01.07:444][886]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-15.01.07:446][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-15.01.07:446][886]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.12.12-15.01.07:449][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-15.01.07:453][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-15.01.07:471][886]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.12-15.01.07:471][886]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.12.12-15.01.07:471][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.12.12-15.01.07:473][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.12.12-15.01.07:477][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-15.01.07:481][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.12-15.01.07:554][887]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2025.12.12-15.01.12:133][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-15.01.12:246][103]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1418228812 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/59/QCV25Q6WADNL0HYDUA3WKW.PackageMetaData in its package
+[2025.12.12-15.01.12:246][103]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C169B610FDCAA02_1316378811 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/GM/2ERS9G99JD06NEW5V5UEQM.PackageMetaData in its package
+[2025.12.12-15.01.12:247][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.12.12-15.01.12:264][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.12.12-15.01.12:280][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.12-15.01.12:313][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.12-15.01.12:327][103]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.12.12-15.01.12:328][103]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/FirstPersonMap8FDC28CE4426657F125E8688C08BBF02.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2025.12.12-15.01.12:337][103]LogFileHelpers: Saving map 'FirstPersonMap' took 0.057
+[2025.12.12-15.01.12:339][103]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7C/YL6VBVI2CR0WXEMXVO4PJ4
+[2025.12.12-15.01.12:339][103]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/YL6VBVI2CR0WXEMXVO4PJ46B0F0EDB44C95907DE653A82ABF2431F.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7C/YL6VBVI2CR0WXEMXVO4PJ4.uasset'
+[2025.12.12-15.01.12:342][103]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/EY/0S2F0BCEKM4HPZFKXUSIWV
+[2025.12.12-15.01.12:342][103]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/0S2F0BCEKM4HPZFKXUSIWV7FFABA5947A64F63335C5197E8B81B76.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/EY/0S2F0BCEKM4HPZFKXUSIWV.uasset'
+[2025.12.12-15.01.12:344][103]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/7S/SN8E0QSWZR4SP9K3UZRNLT
+[2025.12.12-15.01.12:344][103]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/SN8E0QSWZR4SP9K3UZRNLT705AFCB94103580A84E526801EA7AB73.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/7S/SN8E0QSWZR4SP9K3UZRNLT.uasset'
+[2025.12.12-15.01.12:347][103]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TT/GUNDHSA429T5Z5C06TA2Y0
+[2025.12.12-15.01.12:347][103]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/GUNDHSA429T5Z5C06TA2Y0BA6A633C40E65409B3236288EEE504FF.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TT/GUNDHSA429T5Z5C06TA2Y0.uasset'
+[2025.12.12-15.01.12:356][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 223.636 ms (total: 3.89 sec)
+[2025.12.12-15.01.12:422][103]LogContentValidation: Display: Starting to validate 5 assets
+[2025.12.12-15.01.12:422][103]LogContentValidation: Enabled validators:
+[2025.12.12-15.01.12:422][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-15.01.12:422][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-15.01.12:422][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-15.01.12:422][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-15.01.12:422][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-15.01.12:422][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-15.01.12:422][103]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validando ativo
+[2025.12.12-15.01.12:446][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
