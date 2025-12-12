@@ -2902,3 +2902,72 @@ Script Stack (0 frames) :
 [2025.12.12-11.36.43:512][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3333.749268
 [2025.12.12-11.36.44:517][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.12-11.36.44:517][934]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3334.419189, Update Interval: 357.586609
+[2025.12.12-11.38.01:886][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.12-11.38.01:892][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-11.38.01:977][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.12-11.38.01:993][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.12-11.38.02:008][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.12-11.38.02:042][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.12-11.38.02:053][459]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.12.12-11.38.02:054][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/FirstPersonMap39F93E164DBFBC20199926B078913ED0.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2025.12.12-11.38.02:064][459]Message dialog closed, result: Ok, title: Não é possível fazer o check-out a partir do controle de revisão., text: Não foi possível fazer o check-out dos seguintes ativos no controle de revisão:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/X0/WWZUSI7R9W1DXZE1PDVJ2S
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UG/1EZI76LF09TDNXTPQ8HR7H
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/C8/4G649E8N4W5WZLPOD01TWH
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RP/LPSMQJCMUBJ47RYCF2RQJE
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/MP/WBWPGZJFTOAPIIP7GS9OJJ
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6O/GU038635L8087H6XZL2A7S
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CS/N2GDXHN689IPK9PAA8JC3C
+[2025.12.12-11.38.02:064][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-11.38.02:079][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.12-11.38.02:093][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.12-11.38.02:108][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.12-11.38.02:111][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/X0/WWZUSI7R9W1DXZE1PDVJ2S
+[2025.12.12-11.38.02:111][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/WWZUSI7R9W1DXZE1PDVJ2S1F57887B4F84AAF718F2E2B2A6CC0ADD.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/X0/WWZUSI7R9W1DXZE1PDVJ2S.uasset'
+[2025.12.12-11.38.02:115][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UG/1EZI76LF09TDNXTPQ8HR7H
+[2025.12.12-11.38.02:116][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/1EZI76LF09TDNXTPQ8HR7H17F9885E431B35FDE5E73A85EFC0719E.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UG/1EZI76LF09TDNXTPQ8HR7H.uasset'
+[2025.12.12-11.38.02:118][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/C8/4G649E8N4W5WZLPOD01TWH
+[2025.12.12-11.38.02:119][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/4G649E8N4W5WZLPOD01TWHCF6A4E0B47E0155F512888BDA9A15F95.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/C8/4G649E8N4W5WZLPOD01TWH.uasset'
+[2025.12.12-11.38.02:123][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RP/LPSMQJCMUBJ47RYCF2RQJE
+[2025.12.12-11.38.02:123][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/LPSMQJCMUBJ47RYCF2RQJE1D557D544EFE33F61963A3B63FDB010F.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RP/LPSMQJCMUBJ47RYCF2RQJE.uasset'
+[2025.12.12-11.38.02:126][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+[2025.12.12-11.38.02:127][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/PDQ0AB8RLNMVID876FD49GE3FC4A5A4B8D40EB648740B081817459.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset'
+[2025.12.12-11.38.02:130][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6O/GU038635L8087H6XZL2A7S
+[2025.12.12-11.38.02:130][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/GU038635L8087H6XZL2A7SB9AF0BBF46FCF18B3337DE9593072358.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6O/GU038635L8087H6XZL2A7S.uasset'
+[2025.12.12-11.38.02:133][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CS/N2GDXHN689IPK9PAA8JC3C
+[2025.12.12-11.38.02:133][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/N2GDXHN689IPK9PAA8JC3C24C75C934F25DA89BB63CBAB5E4D2797.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CS/N2GDXHN689IPK9PAA8JC3C.uasset'
+[2025.12.12-11.38.02:135][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.779 ms
+[2025.12.12-11.38.02:136][459]Message dialog closed, result: Ok, title: Não é possível fazer o check-out a partir do controle de revisão., text: Não foi possível fazer o check-out dos seguintes ativos no controle de revisão:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/X0/WWZUSI7R9W1DXZE1PDVJ2S
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UG/1EZI76LF09TDNXTPQ8HR7H
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/C8/4G649E8N4W5WZLPOD01TWH
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RP/LPSMQJCMUBJ47RYCF2RQJE
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6O/GU038635L8087H6XZL2A7S
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CS/N2GDXHN689IPK9PAA8JC3C
+[2025.12.12-11.38.02:137][459]LogFileHelpers: Saving map 'FirstPersonMap' took 0.126
+[2025.12.12-11.38.02:138][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/X0/WWZUSI7R9W1DXZE1PDVJ2S
+[2025.12.12-11.38.02:139][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/WWZUSI7R9W1DXZE1PDVJ2S1BB81C5046EBE0718938249794FCE374.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/X0/WWZUSI7R9W1DXZE1PDVJ2S.uasset'
+[2025.12.12-11.38.02:142][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UG/1EZI76LF09TDNXTPQ8HR7H
+[2025.12.12-11.38.02:143][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/1EZI76LF09TDNXTPQ8HR7HF5E6AB074B018698095883959C571F29.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UG/1EZI76LF09TDNXTPQ8HR7H.uasset'
+[2025.12.12-11.38.02:146][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/C8/4G649E8N4W5WZLPOD01TWH
+[2025.12.12-11.38.02:147][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/4G649E8N4W5WZLPOD01TWHA46B083944BE5E9428347B93A7733AA5.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/C8/4G649E8N4W5WZLPOD01TWH.uasset'
+[2025.12.12-11.38.02:150][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RP/LPSMQJCMUBJ47RYCF2RQJE
+[2025.12.12-11.38.02:151][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/LPSMQJCMUBJ47RYCF2RQJEFBBF73904EE622A3B9F4E78CEF4DA989.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RP/LPSMQJCMUBJ47RYCF2RQJE.uasset'
+[2025.12.12-11.38.02:153][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+[2025.12.12-11.38.02:154][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/PDQ0AB8RLNMVID876FD49G1B96FFDF4384B8D6AAD71EA8B6105352.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset'
+[2025.12.12-11.38.02:159][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6O/GU038635L8087H6XZL2A7S
+[2025.12.12-11.38.02:160][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/GU038635L8087H6XZL2A7SA8CBA7BA4DF6211445B23E8F9DBDD0AC.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6O/GU038635L8087H6XZL2A7S.uasset'
+[2025.12.12-11.38.02:164][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CS/N2GDXHN689IPK9PAA8JC3C
+[2025.12.12-11.38.02:164][459]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Saved/N2GDXHN689IPK9PAA8JC3CE8C58C0143311356970E8C8E68B8C3AF.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/tuma2025-2-matheus-quetto/NAO_APAGAR_PFV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CS/N2GDXHN689IPK9PAA8JC3C.uasset'
+[2025.12.12-11.38.02:182][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 289.215 ms (total: 360.994 ms)
+[2025.12.12-11.38.02:226][459]LogContentValidation: Display: Starting to validate 8 assets
+[2025.12.12-11.38.02:226][459]LogContentValidation: Enabled validators:
+[2025.12.12-11.38.02:227][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-11.38.02:227][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-11.38.02:227][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-11.38.02:227][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-11.38.02:227][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-11.38.02:227][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-11.38.02:227][459]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validando ativo
